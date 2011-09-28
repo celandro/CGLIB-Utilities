@@ -1,0 +1,5 @@
+This library contains some easy to use utilities to help make dealing with java beans easier.
+
+BeanMapParser - Will parse a single line of text into a java bean, performing conversions with apache BeanUtils converters, or define your own
+BeanMapAsserts - Junit based assertions that checks every property of 2 incoming beans and verifies they are the same
+BeanMapBuilder - Adds builder pattern type syntax to any java bean. 
